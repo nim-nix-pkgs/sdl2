@@ -9,7 +9,7 @@
   
   inputs.src-sdl2-master.flake = false;
   inputs.src-sdl2-master.owner = "nim-lang";
-  inputs.src-sdl2-master.ref   = "refs/heads/master";
+  inputs.src-sdl2-master.ref   = "master";
   inputs.src-sdl2-master.repo  = "sdl2";
   inputs.src-sdl2-master.type  = "github";
   
